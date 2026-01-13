@@ -1,0 +1,463 @@
+Action Metrics - Actions Attributed to Ads
+Metric Name 	Label 	Description
+clicks 	Total clicks 	Total clicks
+inline_link_clicks 	Inline link clicks 	Inline link clicks
+inline_post_engagement 	Inline post engagement 	Inline post engagement
+link_click 	Link clicks (count) 	Link clicks (count)
+like 	Page likes (count) 	Page likes (count)
+actions.post 	Post shares (count) 	Post shares (count)
+comment 	Post comments (count) 	Post comments (count)
+post_like 	Post likes (count) 	Post likes (count)
+page_engagement 	Page engagement (count) 	Page engagement (count)
+post_engagement 	Post engagement (count) 	Post engagement (count)
+checkin 	Checkins (count) 	Checkins (count)
+app_use 	App uses (count) 	App uses (count)
+app_install 	App installs (count) 	App installs (count)
+photo_view 	Photo view (count) 	Photo view (count)
+post_reaction 	Post reaction (count) 	Post reaction (count)
+rsvp 	Event responses (count) 	Event responses (count)
+credit_spent 	Credit Spends (count) 	Credit Spends (count)
+gamesplays 	Game plays (count) 	Game plays (count)
+landing_page_view 	Landing Page Views (count) 	The number of times your ad resulted in a click that led to a page on your website or app, such as the home page.
+leadgenother 	Leads - Form (count) 	The number of leads generated via Facebook Lead Ads forms.
+mobile_app_install 	Mobile App Installs (count) 	The number of people who installed your app after clicking on your ad.
+offsite_conversionfb_pixel_add_to_cart 	Offsite Conversion - Add to Cart (count) 	The number of times someone added an item to their cart after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_add_to_wishlist 	Offsite Conversion - Add to Wishlist (count) 	The number of times someone added an item to their wishlist after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_lead 	Offsite Conversion - Lead (count) 	The number of times someone submitted a lead form after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_custom 	Offsite Conversion - Custom (count) 	The number of conversions that you defined when setting up the Facebook pixel, such as registrations or checkouts.
+offsite_conversionfb_pixel_purchase 	Offsite Conversion - Purchases (count) 	The number of purchases made by people who clicked on your ad and got redirected to your website.
+offsite_conversionfb_pixel_initiate_checkout 	Offsite Conversion - Initiated Checkouts (count) 	The number of times someone started the checkout process after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_complete_registration 	Offsite Conversion - Completed Registrations (count) 	The number of times someone completed a registration form after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_view_content 	Offsite Conversion - View Content (count) 	The number of times someone viewed content on your website after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_add_payment_info 	Offsite Conversion - Adds Payment Info (count) 	The number of times someone added payment information after clicking on your ad and getting redirected to your website.
+offsite_conversionfb_pixel_search 	Offsite Conversion - Searches (count) 	The number of searches made by people who clicked on your ad and got redirected to your website.
+onsite_conversionlead_grouped 	Onsite Conversion - Lead Grouped (count) 	The number of leads generated through your website or app.
+onsite_conversionflow_complete 	Onsite Conversion - Flow Complete (count) 	The number of times people complete a multi-page process on your website or app, such as a sign-up or checkout flow.
+onsite_conversionmessaging_block 	Onsite conversion - messaging conversation block (count) 	Count of users who have completed a conversation with the business on messenger
+onsite_conversionmessaging_conversation_started_7d 	Onsite conversion - messaging conversation start (count) 	Count of unique conversations started on messenger in the last 7 days
+onsite_conversionmessaging_first_reply 	Onsite conversion - messaging conversation new (count) 	Count of users who started a new conversation with the business on messenger
+onsite_conversionpost_save 	Onsite conversion - post save (count) 	Count of times users saved a post
+onsite_conversionpurchase 	Onsite conversion - purchase (count) 	Count of purchases made on website or app after clicking on ad
+video_view 	Video views (count) 	Number of times a video has been viewed for at least 3 seconds
+app_engagement 	App engagement (count) 	Actions that people take while using your app, such as likes, shares and comments
+app_story 	App story (count) 	Number of stories created by people about your app
+page_story 	Page story (count) 	Number of stories created by people about your Page
+post_story 	Post story (count) 	Number of stories created by people about your posts
+offsite_conversion 	Offsite conversion (count) 	Number of conversions that happened off Facebook after someone interacted with your ad
+onsite_conversion 	Onsite conversion (count) 	Number of conversions that happened on your website or app after someone clicked your ad
+app_custom_event 	App custom event (count) 	Number of times a specific app event occurred
+onsite_web_app_event 	Onsite web app event (count) 	This metric tracks the number of events performed on your website's application. These could include actions like button clicks, page views, etc.
+mobile_app_retention 	Mobile app retention (count) 	This metric measures the number of users who have downloaded the app and continue to engage with it over a certain period of time.
+mobile_app_roas 	Mobile app ROAS (count) 	Return on ad spend (ROAS) is a metric that shows how much revenue you generate for every dollar spent on advertising. This specific metric pertains to mobile applications.
+offsite_engagement 	Offsite engagement (count) 	Count of engagements that occur offsite.
+store_visit_with_dwell 	Store visits with dwell (count) 	Count of store visits with a specified dwell time.
+add_to_cart 	Add to cart (count) 	Count of items added to the cart.
+onsite_app_add_to_cart 	Onsite app - Add to cart (count) 	Count of items added to the cart within the app.
+onsite_web_add_to_cart 	Onsite web - Add to cart (count) 	Count of items added to the cart on the website.
+complete_registration 	Complete registration (count) 	Count of completed user registrations.
+purchase 	Purchase 	Count of purchases made.
+onsite_app_purchase 	Onsite app - Purchase (count) 	Count of purchases made within the app.
+onsite_web_purchase 	Onsite web - Purchase (count) 	Count of purchases made on the website.
+search 	Search (count) 	Count of searches performed.
+view_content 	View content (count) 	Count of content views.
+onsite_app_view_content 	Onsite app - View content (count) 	Count of content views within the app.
+onsite_web_view_content 	Onsite web - View content (count) 	Count of content views on the website.
+initiate_checkout 	Initiate checkout (count) 	Count of checkout initiations.
+add_payment_info 	Add payment info (count) 	Count of added payment information.
+add_to_wishlist 	Add to wishlist (count) 	Count of items added to the wishlist.
+lead 	Leads (count) 	Count of generated leads.
+omni_app_install 	All app installs (count) 	Count of installs for all apps.
+omni_purchase 	All purchases (count) 	Count of all purchases.
+omni_add_to_cart 	All add to cart (count) 	Count of all items added to the cart.
+omni_complete_registration 	All completed registrations (count) 	Count of all completed user registrations.
+omni_view_content 	All content views (count) 	Count of all content views.
+omni_search 	All searches (count) 	Count of all searches performed.
+omni_initiated_checkout 	All initiated checkouts (count) 	Count of all checkout initiations.
+omni_achievement_unlocked 	All unlocked achievements (count) 	Count of all unlocked achievements.
+omni_activate_app 	All app activations (count) 	Count of all app activations.
+omni_level_achieved 	All level achieved (count) 	Count of all achieved levels.
+omni_rate 	All rates (count) 	Count of all rates given.
+omni_spend_credits 	All spend credits (count) 	Count of all credits spent.
+omni_tutorial_completion 	All tutorial completions (count) 	
+omni_custom 	All custom actions (count) 	Total number of custom actions initiated across all platforms
+subscribe 	Subscribe (count) 	Total number of subscriptions made
+start_trial_total 	Trials started total (count) 	Total number of trials started across all platforms
+start_trial_website 	Website trials started (count) 	Number of trials started via the website
+start_trial_mobile_app 	Mobile app trials started (count) 	Number of trials started via the mobile app
+start_trial_offline 	Offline trials started (count) 	Number of trials started offline
+contact_total 	Total Contacts (count) 	Total number of contacts made across all platforms
+contact_website 	Website Contacts (count) 	Number of contacts made via the website
+contact_mobile_app 	Mobile App Contacts (count) 	Number of contacts made via the mobile app
+contact_offline 	Offline Contacts (count) 	Number of contacts made offline
+find_location_total 	Total Location Searches (count) 	Total number of location searches made across all platforms
+find_location_website 	Website Location Searches (count) 	Number of location searches made via the website
+find_location_mobile_app 	Mobile App Location Searches (count) 	Number of location searches made via the mobile app
+find_location_offline 	Offline App Location Searches (count) 	Number of location searches made offline
+
+Action values
+metric_name 	Label
+action_values.app_install 	App installs (value)
+app_use 	App uses (value)
+checkin 	Checkins (value)
+comment 	Post comments (value)
+credit_spent 	Credit Spends (value)
+post_like 	Post like (value)
+post_engagement 	Post engagement (value)
+gamesplays 	Game plays (value)
+landing_page_view 	Landing page views (value)
+leadgenother 	Leads - Form (value)
+like 	Page likes (value)
+link_click 	Link clicks (value)
+mobile_app_install 	Mobile app installs (value)
+lead 	Leads (value)
+offsite_conversionfb_pixel_add_payment_info 	Offsite conversion - adds payment info (value)
+offsite_conversionfb_pixel_add_to_cart 	Offsite conversion - add to basket (value)
+offsite_conversionfb_pixel_add_to_wishlist 	Offsite conversion - adds to wishlist (value)
+offsite_conversionfb_pixel_complete_registration 	Offsite conversion - completed registrations (value)
+offsite_conversionfb_pixel_custom 	Offsite conversion - custom (value)
+offsite_conversionfb_pixel_initiate_checkout 	Offsite conversion - initiated checkouts (value)
+offsite_conversionfb_pixel_lead 	Offsite conversion - lead (value)
+offsite_conversionfb_pixel_purchase 	Offsite conversion - purchases (value)
+offsite_conversionfb_pixel_search 	Offsite conversion - searches (value)
+offsite_conversionfb_pixel_view_content 	Offsite conversion - view content (value)
+onsite_conversionflow_complete 	On-site conversion - flow complete (value)
+onsite_conversionlead_grouped 	On-site conversion - lead grouped (value)
+onsite_conversionmessaging_block 	On-site conversion - messaging conversation block (value)
+onsite_conversionmessaging_conversation_started_7d 	On-site conversion - messaging conversation start (value)
+onsite_conversionmessaging_first_reply 	On-site conversion - messaging conversation new (value)
+onsite_conversionpost_save 	On-site conversion - post save (value)
+onsite_conversionpurchase 	On-site conversion - purchase (value)
+photo_view 	Photo view (value)
+post 	Post shares (value)
+post_reaction 	Post reaction (value)
+rsvp 	RSVP (value)
+video_view 	Video views (value)
+app_engagement 	App engagement (value)
+app_story 	App story (value)
+page_engagement 	Page engagement (value)
+page_story 	Page story (value)
+post_story 	Post story (value)
+offsite_conversion 	Offsite conversion (value)
+onsite_conversion 	Onsite conversion (value)
+app_custom_event 	App custom event (value)
+onsite_web_app_event 	Onsite web app event (value)
+mobile_app_retention 	Mobile app retention (value)
+mobile_app_roas 	Mobile app ROAS (value)
+offsite_engagement 	Offsite engagement (value)
+store_visit_with_dwell 	Store visits with dwell (value)
+add_to_cart 	Add to cart (value)
+onsite_app_add_to_cart 	Onsite app - Add to cart (value)
+onsite_web_add_to_cart 	Onsite web - Add to cart (value)
+complete_registration 	Complete registration (value)
+purchase 	Purchase (value)
+onsite_app_purchase 	Onsite app - Purchase (value)
+onsite_web_purchase 	Onsite web - Purchase (value)
+search 	Search (value)
+view_content 	View content (value)
+onsite_app_view_content 	Onsite app - View content (value)
+onsite_web_view_content 	Onsite web - View content (value)
+initiate_checkout 	Initiate checkout (value)
+add_payment_info 	Add payment info (value)
+add_to_wishlist 	Add to wishlist (value)
+omni_app_install 	All app installs (value)
+omni_purchase 	All purchases value (value)
+omni_add_to_cart 	All add to cart (value)
+omni_complete_registration 	All completed registrations (value)
+omni_view_content 	All content views (value)
+omni_search 	All searches (value)
+omni_initiated_checkout 	All initiated checkouts (value)
+omni_achievement_unlocked 	All unlocked achievements (value)
+omni_activate_app 	All app activations (value)
+omni_level_achieved 	All level achieved (value)
+omni_rate 	All rates (value)
+omni_spend_credits 	All spend credits (value)
+omni_tutorial_completion 	All tutorial completions (value)
+omni_custom 	All custom actions (value)
+subscribe 	subscribe (value)
+start_trial_total 	Trials started total (value)
+start_trial_website 	Website trials started (value)
+start_trial_mobile_app 	Mobile app trials started (value)
+start_trial_offline 	Offline trials started (value)
+contact_total 	Total Contacts (value)
+contact_website 	Website Contacts (value)
+contact_mobile_app 	Mobile App Contacts (value)
+contact_offline 	Offline contacts (value)
+find_location_total 	Total Location Searches (value)
+find_location_website 	Website Location Searches (value)
+find_location_mobile_app 	Mobile App Location Searches (value)
+find_location_offline 	Offline App Location Searches (value)
+
+Impressions category
+metric_name 	Label 	Description
+impressions 	Impressions 	The total number of times your ads were on the screen
+social_impressions 	Social impressions 	The number of times your ads were on the screen with social information
+unique_impressions 	Impressions (Unique) 	The number of people who saw your ads at least once
+newsfeed_impressions 	Newsfeed impressions (Unique) 	The number of times your ads were on the newsfeed
+unique_social_impressions 	Social impressions (Unique) 	The number of people who saw your ads with social information at least once
+full_view_impressions 	Full view impressions 	The number of times your ads were fully viewed on the screen
+
+Reach and relevancy category
+metric_name 	Label 	Description
+reach 	Reach 	The number of people who saw your ads at least once
+social_reach 	Social Reach 	The number of people who saw your ads with social information
+frequency 	Frequency 	The average number of times each person saw your ad
+newsfeed_avg_position 	Newsfeed Avg position 	The average position of your ad on the newsfeed
+full_view_reach 	Full view reach 	The number of people who fully viewed your ads
+
+CTR category
+metric_name 	Label 	Description
+ctr 	CTR 	The percentage of times people saw your ad and performed a link click
+unique_ctr 	Unique CTR 	The percentage of people who saw your ad and performed a link click
+unique_link_clicks_ctr 	Unique Link Clicks CTR 	The percentage of unique link clicks to impressions
+inline_link_click_ctr 	Inline Link Click CTR 	The percentage of inline link clicks to impressions
+unique_inline_link_click_ctr 	Unique Inline Link Click CTR 	The percentage of unique inline link clicks to impressions
+
+Costs category
+metric_name 	Label 	Description
+spend 	Spend 	The total amount of money you've spent on your ad campaign
+cpm 	CPM 	The average cost for 1,000 impressions
+cpc 	CPC 	The average cost for each link click
+cpp 	CPP 	The average cost per person reached
+social_spend 	Social Spend 	The total amount of money you've spent on social features of your ad campaign
+cost_per_inline_link_click 	Cost per inline link click 	The average cost of each inline link click
+cost_per_inline_post_engagement 	Cost per inline post engagement 	The average cost of each inline post engagement
+cost_per_unique_click 	Cost per unique click 	The average cost of each unique click
+cost_per_unique_inline_link_click 	Cost per unique inline link click 	The average cost of each unique inline link click
+
+Cost per action category
+metric_name 	Label 	Description
+cost_per_action_type.app_use 	Cost per app use 	The average cost for each app use
+cost_per_action_type.app_install 	Cost per app install 	The average cost for each app install
+cost_per_action_type.checkin 	Cost per checkin 	The average cost for each check-in on your page
+cost_per_action_type.comment 	Cost per post comment 	The average cost for each comment on your post
+cost_per_action_type.post_likes 	Cost per post like 	The average cost for each like on your post
+cost_per_action_type.credit_spent 	Cost per credit spend 	The average cost for each credit spent on your app
+cost_per_action_type.link_click 	Cost per link click 	The average cost for each link click on your ad
+cost_per_action_type.like 	Cost per page like 	The average cost for each like on your page
+cost_per_action_type.mention 	Cost per page mention 	The average cost for each mention of your page
+cost_per_action_type.post 	Cost per post shares 	The average cost for each share of your post
+cost_per_action_type.dwell 	Cost per post dwell 	The average cost for each dwell time on your post
+cost_per_action_type.page_engagement 	Cost per page engagement 	The average cost for each engagement on your page
+cost_per_action_type.post_engagement 	Cost per post engagement 	The average cost for each engagement on your post
+cost_per_action_type.landing_page_view 	Cost per landing page view 	The average cost for each landing page view
+cost_per_action_type.commerce_event_add_to_cart 	Cost per commerce add to basket 	The average cost for each add to basket event in your commerce platform
+cost_per_action_type.commerce_event_purchase 	Cost per commerce purchase 	The average cost for each purchase event in your commerce platform
+cost_per_action_type.commerce_event_message_to_buy 	Cost per commerce message to buy 	The average cost for each message to buy event in your commerce platform
+cost_per_action_type.commerce_event_view_content 	Cost per commerce product view 	The average cost for each product view event in your commerce platform
+cost_per_action_type.offsite_conversionfb_pixel_add_payment_info 	Cost per offsite conversion - adds payment info 	The average cost for each add payment info event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_add_to_cart 	Cost per offsite conversion - adds to basket 	The average cost for each add to basket event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_add_to_wishlist 	Cost per offsite conversion - adds to wishlist 	The average cost for each add to wishlist event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_complete_registration 	Cost per offsite conversion - completed registrations 	The average cost for each completed registration event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_custom 	Cost per offsite conversion - custom 	The average cost for each custom event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_initiate_checkout 	Cost per offsite conversion - initiated checkouts 	The average cost for each initiated checkout event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_lead 	Cost per offsite conversion - lead 	The average cost for each lead event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_search 	Cost per offsite conversion - searches 	The average cost for each search event tracked by your Facebook Pixel
+cost_per_action_type.offsite_conversionfb_pixel_view_content 	Cost per offsite conversion - view content 	The average cost for each view content event tracked by your Facebook Pixel
+cost_per_action_type.onsite_conversionflow_complete 	Cost per on-site conversion conversion - flow complete 	The average cost for each completed flow on your site
+cost_per_action_type.onsite_conversionmessaging_block 	Cost per on-site conversion - messaging conversation block 	The average cost for each messaging conversation block on your site
+cost_per_action_type.onsite_conversionmessaging_conversation_started_7d 	Cost per on-site conversion - messaging conversation start 	The average cost for each conversation started on your site in the last 7 days
+cost_per_action_type.onsite_conversionmessaging_first_reply 	Cost per on-site conversion - messaging conversations new 	The average cost for each new messaging conversation started on your site
+cost_per_action_type.onsite_conversionpost_save 	Cost per on-site conversion - post save 	The average cost for each post save on your site
+cost_per_action_type.onsite_conversionpurchase 	Cost per on-site conversion - purchase 	The average cost for each purchase made on your site
+cost_per_action_type.video_play 	Cost per video clicks to play 	The average cost for each click to play your video
+cost_per_action_type.video_view 	Cost per video view 	The average cost for each view of your video
+cost_per_action_type.app_engagement 	Cost per app engagement 	The average cost for each engagement with your app
+cost_per_action_type.app_story 	Cost per app story 	The average cost for each story related to your app
+cost_per_action_type.page_story 	Cost per page story 	The average cost for each story related to your page
+cost_per_action_type.post_story 	Cost per post story 	The average cost for each story related to your post
+cost_per_action_type.offsite_conversion 	Cost per offsite conversion 	The average cost for each offsite conversion
+cost_per_action_type.onsite_conversion 	Cost per onsite conversion 	The average cost for each onsite conversion
+cost_per_action_type.app_custom_event 	Cost per app custom event 	The average cost for each custom event in your app
+cost_per_action_type.onsite_web_app_event 	Cost per onsite web app event 	The average cost for each web app event on your site
+cost_per_action_type.mobile_app_retention 	Cost per mobile app retention 	The average cost for each retained user in your mobile app
+cost_per_action_type.mobile_app_roas 	Cost per mobile app ROAS 	The average cost for each return on ad spend for your mobile app
+cost_per_action_type.offsite_engagement 	Cost per offsite engagement 	The average cost for each offsite engagement
+cost_per_action_type.store_visit_with_dwell 	Cost per store visits with dwell 	The average cost for each store visit with dwell time
+cost_per_action_type.add_to_cart 	Cost per add to cart 	The average cost for each add to cart event
+cost_per_action_type.onsite_app_add_to_cart 	Cost per onsite app - Add to cart 	The average cost for each add to cart event in your onsite app
+cost_per_action_type.onsite_web_add_to_cart 	Cost per onsite web - Add to cart 	The average cost for each add to cart event on your website
+cost_per_action_type.complete_registration 	Cost per complete registration 	The average cost for each completed registration event
+cost_per_action_type.purchase 	Cost per purchase 	The average cost for each purchase event
+cost_per_action_type.onsite_app_purchase 	Cost per onsite app - Purchase 	The average cost for each purchase event within your onsite app
+cost_per_action_type.onsite_web_purchase 	Cost per onsite web - Purchase 	The average cost for each purchase event on your website
+cost_per_action_type.search 	Cost per search 	The average cost for each search event
+cost_per_action_type.view_content 	Cost per view content 	The average cost for each view content event
+cost_per_action_type.onsite_app_view_content 	Cost per onsite app - View content 	The average cost for each view content event within your onsite app
+cost_per_action_type.onsite_web_view_content 	Cost per onsite web - View content 	The average cost for each view content event on your website
+cost_per_action_type.initiate_checkout 	Cost per initiate checkout 	The average cost for each initiate checkout event
+cost_per_action_type.add_payment_info 	Cost per add payment info 	The average cost for each add payment info event
+cost_per_action_type.add_to_wishlist 	Cost per add to wishlist 	The average cost for each add to wishlist event
+cost_per_action_type.lead 	Cost per lead 	The average cost for each lead
+cost_per_action_type.omni_app_install 	Cost per All app installs 	The average cost for each app install across all platforms
+cost_per_action_type.omni_purchase 	Cost per All purchases 	The average cost for each purchase across all platforms
+cost_per_action_type.omni_custom 	Cost per All custom actions 	The average cost for each custom action across all platforms
+cost_per_action_type.subscribe 	Cost per subscribe 	The average cost for each subscription
+cost_per_thruplay.video_view 	Cost per thruplay 	The average cost for each thruplay event (when the video is played to completion)
+cost_per_action_type.contact_total 	Cost per contact 	The average cost for each contact event
+cost_per_action_type.contact_website 	Cost per website contact 	The average cost for each contact event on your website
+cost_per_action_type.contact_mobile_app 	Cost per mobile app contact 	The average cost for each contact event on your mobile app
+cost_per_action_type.contact_offline 	Cost per offline contact 	The average cost for each offline contact event
+cost_per_action_type.find_location_total 	Cost per location search 	The average cost for each location search event
+cost_per_action_type.find_location_website 	Cost per website location search 	The average cost for each location search event on your website
+cost_per_action_type.find_location_mobile_app 	Cost per mobile app location search 	The average cost for each location search event on your mobile app
+cost_per_action_type.find_location_offline 	Cost per offline app location search 	The average cost for each offline location search event
+
+ROAS category
+metric_name 	Label 	Description
+website_purchase_roas.link_click 	ROAS link click 	Return on ad spend for each link click
+website_purchase_roas.like 	ROAS like 	Return on ad spend for each "like" reaction
+website_purchase_roas.mention 	ROAS mention 	Return on ad spend for each mention
+website_purchase_roas.post 	ROAS post 	Return on ad spend for each post
+website_purchase_roas.landing_page_view 	ROAS landing page view 	Return on ad spend for each landing page view
+website_purchase_roas.comment 	ROAS comment 	Return on ad spend for each comment
+website_purchase_roas.post_reaction 	ROAS post reaction 	Return on ad spend for each post reaction
+website_purchase_roas.photo_view 	ROAS photo view 	Return on ad spend for each photo view
+website_purchase_roas.video_view 	ROAS video view 	Return on ad spend for each video view
+website_purchase_roas.post_engagement 	ROAS post engagement 	Return on ad spend for each post engagement
+website_purchase_roas.page_engagement 	ROAS page engagement 	Return on ad spend for each page engagement
+website_purchase_roas.onsite_conversionpost_save 	ROAS post save 	Return on ad spend for each saved post
+website_purchase_roas.offsite_conversionfb_pixel_custom 	ROAS FB pixel custom 	Return on ad spend for each custom conversion event, tracked by Facebook Pixel
+website_purchase_roas.offsite_conversionfb_pixel_lead 	ROAS FB pixel lead 	Return on ad spend for each lead conversion event, tracked by Facebook Pixel
+website_purchase_roas.offsite_conversionfb_pixel_purchase 	ROAS FB pixel purchase 	Return on ad spend for each purchase conversion event, tracked by Facebook Pixel
+
+Video category
+metric_name 	Label 	Description
+video_30_sec_watched_actions.video_view 	Video 30 sec watched 	Count of videos watched for at least 30 seconds
+video_avg_time_watched_actions.video_view 	Video average time watched 	Average time users spent watching the video
+video_p100_watched_actions.video_view 	Video 100% watched 	Count of videos watched to 100% of their length
+video_p25_watched_actions.video_view 	Video 25% watched 	Count of videos watched to at least 25% of their length
+video_p50_watched_actions.video_view 	Video 50% watched 	Count of videos watched to at least 50% of their length
+video_p75_watched_actions.video_view 	Video 75% watched 	Count of videos watched to at least 75% of their length
+video_p95_watched_actions.video_view 	Video 95% watched 	Count of videos watched to at least 95% of their length
+video_play_actions.video_view 	Video played 	Count of times the video was played
+
+Conversion count category
+metric_name 	Label 	Description
+conversions.start_trial_total 	Conversion trials started total (count) 	Total count of trials started
+conversions.start_trial_website 	Conversion website trials started (count) 	Count of trials started on the website
+conversions.start_trial_mobile_app 	Conversion mobile app trials started (count) 	Count of trials started on the mobile app
+conversions.start_trial_offline 	Conversion offline trials started (count) 	Count of trials started offline
+conversions.contact_total 	Conversion Contacts (count) 	Total count of contacts made
+conversions.contact_website 	Conversion Website Contacts (count) 	Count of contacts made on the website
+conversions.contact_mobile_app 	Conversion Mobile App Contacts (count) 	Count of contacts made on the mobile app
+conversions.contact_offline 	Conversion Offline Contacts (count) 	Count of contacts made offline
+conversions.find_location_total 	Conversion Total Location Searches (count) 	Total count of location searches
+conversions.find_location_website 	Conversion Website Location Searches (count) 	Count of location searches made on the website
+conversions.find_location_mobile_app 	Conversion Mobile App Location Searches (count) 	Count of location searches made on the mobile app
+conversions.find_location_offline 	Conversion Offline App Location Searches (count) 	Count of location searches made offline
+conversions.lead 	Conversion Leads (count) 	Count of leads generated
+conversions.landing_page_view 	Conversion Landing Page Views (count) 	Count of landing page views
+
+Conversion value category
+metric_name 	Label 	Description
+conversion_values.start_trial_total 	Conversion trials started total (value) 	Total value generated from trials started
+conversion_values.start_trial_website 	Conversion website trials started (value) 	Value generated from trials started on the website
+conversion_values.start_trial_mobile_app 	Conversion mobile app trials started (value) 	Value generated from trials started on the mobile app
+conversion_values.start_trial_offline 	Conversion offline trials started (value) 	Value generated from trials started offline
+conversion_values.contact_total 	Conversion Contacts (value) 	Total value generated from contacts made
+conversion_values.contact_website 	Conversion Website Contacts (value) 	Value generated from contacts made on the website
+conversion_values.contact_mobile_app 	Conversion Mobile App Contacts (value) 	Value generated from contacts made on the mobile app
+conversion_values.contact_offline 	Conversion Offline Contacts (value) 	Value generated from contacts made offline
+conversion_values.find_location_total 	Conversion Total Location Searches (value) 	Total value generated from location searches
+conversion_values.find_location_website 	Conversion Website Location Searches (value) 	Value generated from location searches made on the website
+conversion_values.find_location_mobile_app 	Conversion Mobile App Location Searches (value) 	Value generated from location searches made on the mobile app
+conversion_values.find_location_offline 	Conversion Offline App Location Searches (value) 	Value generated from location searches made offline
+conversion_values.lead 	Conversion lead (value) 	Value generated from leads
+conversion_values.landing_page_view 	Conversion landing page view (value) 	Value generated from landing page views
+
+Cost per Conversion category
+metric_name 	Label 	Description
+cost_per_conversion.start_trial_total 	Cost per conversion trials started total 	Average cost per trial started
+cost_per_conversion.start_trial_website 	Cost per conversion website trials started 	Average cost per trial started on the website
+cost_per_conversion.start_trial_mobile_app 	Cost per conversion mobile app trials started 	Average cost per trial started on the mobile app
+cost_per_conversion.start_trial_offline 	Cost per conversion offline trials started 	Average cost per trial started offline
+cost_per_conversion.contact_total 	Cost per conversion contact 	Average cost per contact made
+cost_per_conversion.contact_website 	Cost per conversion website contact 	Average cost per contact made on the website
+cost_per_conversion.contact_mobile_app 	Cost per conversion mobile app contacts 	Average cost per contact made on the mobile app
+cost_per_conversion.contact_offline 	Cost per conversion offline contacts 	Average cost per contact made offline
+cost_per_conversion.find_location_total 	Cost per conversion total location searches 	Average cost per location search
+cost_per_conversion.find_location_website 	Cost per conversion website location searches 	Average cost per location search on the website
+cost_per_conversion.find_location_mobile_app 	Cost per conversion mobile app location searches 	Average cost per location search on the mobile app
+cost_per_conversion.find_location_offline 	Cost per conversion offline location searches 	Average cost per location search offline
+cost_per_conversion.lead 	Cost per conversion lead 	Average cost per lead generated
+cost_per_conversion.landing_page_view 	Cost per conversion landing page view 	Average cost per landing page view
+
+Ad recall category
+metric_name 	Label 	Description
+cost_per_estimated_ad_recallers 	Cost per estimated ad recallers 	The average cost for each individual who is estimated to recall your ad
+estimated_ad_recall_rate 	Estimated ad recall rate 	The estimated percentage of people who remember seeing your ad within 2 days
+estimated_ad_recallers 	Estimated ad recallers 	The estimated number of people who remember seeing your ad within 2 days
+
+Attributes (Dimensions)
+Ad reporting level
+Reporting date start
+Reporting date stop
+Insert date
+Account ID
+Account name
+Account currency
+Campaign ID
+Campaign name
+Campaign objective
+Campaign buying type
+Ad Set ID
+Ad Set name
+Created time
+Updated time
+Ad ID
+Ad name
+
+Ad set reporting level (14)
+Ad reporting level
+Reporting date start
+Reporting date stop
+Insert date
+Account ID
+Account name
+Account currency
+Campaign ID
+Campaign name
+Campaign objective
+Campaign buying type
+Ad Set ID
+Ad Set name
+Created time
+Updated time
+
+Campaign reporting level (10)
+Ad reporting level
+Reporting date start
+Reporting date stop
+Insert date
+Account ID
+Account name
+Account currency
+Campaign ID
+Campaign name
+Campaign objective
+Campaign buying type
+
+Breakdowns(max 3)
+
+Generic breakdowns:
+Breakdown Name 	Label 	Description
+ad_format_asset 	Ad format asset 	The ID of the ad format asset involved in impression, click, or action.
+age 	Age 	The age range of the people you've reached.
+body_asset 	Body asset 	The ID of the body asset involved in impression, click or action.
+call_to_action_asset 	Call to action asset 	The ID of the call to action asset involved in impression, click, or action.
+country 	Country 	The countries where the people you've reached are located. This is based on information such as a person's hometown, their current city and the geographical location where they tend to be when they visit Facebook.
+description_asset 	Description asset 	The ID of the description asset involved in impression, click or action.
+device_platform 	Device platform 	The type of device, mobile or desktop, is used by people when they viewed or clicked on an ad, as shown in ads reporting.
+dma 	DMA 	DMA (Designated Market Area) regions are the 210 geographic areas in the United States in which local television viewing is measured by The Nielsen Company.
+frequency_value 	Frequency 	The number of times an ad in your Reach and Frequency campaign was served to each person.
+gender 	Gender 	Gender of people you've reached. People who don't list their gender are shown as 'not specified'.
+image_asset 	Image asset 	The ID of the image asset involved in impression, click or action.
+impression_device 	Impression device 	The device where your last ad was served to someone on Facebook. For example "iPhone" if someone viewed your ad on an iPhone.
+link_url_asset 	Link URL asset 	The ID of the URL asset involved in impression, click or action.
+place_page_id 	Place page ID 	The ID of the place page involved in impression or click. NOTE: Account level insights and page_place_id are not compatible with each other, so they cannot be queried together.
+platform_position 	Platform position 	Where your ad was shown within a platform, for example on Facebook desktop News Feed, or Instagram Mobile News Feed.
+product_id 	Product ID 	The ID and name of the product involved in impression, click, or action.
+publisher_platform 	Publisher platform 	Which platform your ad was shown, for example on Facebook, Instagram, or Audience Network.
+region 	Region 	The regions where the people you've reached are located. This is based on information such as a person's hometown, their current city and the geographical location where they tend to be when they visit Facebook.
+title_asset 	Title asset 	The ID of the title asset involved in impression, click or action.
+video_asset 	Video asset 	The ID of the video asset involved in impression, click or action.
