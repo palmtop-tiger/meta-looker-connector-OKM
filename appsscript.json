@@ -1,0 +1,38 @@
+{
+  "timeZone": "America/Toronto",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "version": "43",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "executionApi": {
+    "access": "ANYONE"
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/script.scriptapp",
+    "https://www.googleapis.com/auth/userinfo.email"
+  ],
+  "dataStudio": {
+    "name": "Meta Analytics App",
+    "logoUrl": "https://static.wikia.nocookie.net/isekai-quartet/images/2/20/Megumin.png/revision/latest?cb=20191022203904",
+    "company": "Somnarium Technologies Ltd",
+    "companyUrl": "https://somnarium.com/",
+    "addonUrl": "https://somnarium.com/",
+    "supportUrl": "https://somnarium.com/",
+    "description": "Connector to import Meta Ads data into Looker Studio dashboards.",
+    "sources": [
+      "FACEBOOK_ADS"
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE"
+  }
+}
