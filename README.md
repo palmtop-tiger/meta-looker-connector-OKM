@@ -2,7 +2,7 @@
 
 Looker Studio Connector for Meta Ads
 
-This Google Apps Script project provides a community connector for Google Looker Studio (formerly Data Studio) to fetch core performance data directly from the Meta (Facebook) Ads Marketing API.
+This Google Apps Script project provides a self-hosted connector for Google Looker Studio (formerly Data Studio) to fetch core performance data directly from the Meta (Facebook) Ads Marketing API.
 Overview
 
 This connector allows you to:
